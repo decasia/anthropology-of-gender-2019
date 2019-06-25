@@ -17,10 +17,10 @@ Room TBA
 
 ## Requirements
 
-- Reading questions: For each class, you are required to submit *one question about the day's reading*, at least 30 minutes before class starts. For each day, send all your questions to me in a single email.
+- Reading questions: For each class, you will need to send *one question about the day's reading*, at least 30 minutes before class starts. Please send your question to me by email, with the subject line "Gender Reading Question."
 - Class attendance and participation, including in-class writing exercises.
-- Two short papers (1500-2000 words) 
-- Course portfolio (weekly exercises plus final written reflections)
+- Two short papers (1500-2000 words).
+- Course portfolio (weekly exercises plus final written reflections).
 
 ## Reading Schedule
 
