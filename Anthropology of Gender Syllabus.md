@@ -24,45 +24,49 @@ Room TBA
 
 ## Reading Schedule
 
-### Part 1: Gender and masculine power
+### Part 1: Gender, culture, and male power
 
 #### August 27 — Introduction
 
 No readings today.
 
-#### August 29 - Questions of vocabulary
+#### August 29 - What is Gender?
 
-- Eve Sedgwick, "Axiomatic"
+Paul Johnson, "Haunting Heterosexuality"?
 
-#### September 3 - 
+#### September 3 - Race, Class and Intersectionality
 
-#### September 5 - 
+#### September 5 - Gender and (hetero)sexuality
 
-#### September 10 - 
+#### September 10 - Masculinity and power
 
-#### September 12 - 
+#### September 12 - Postcolonial geographies
 
-#### September 17 - 
+#### September 17 - Intimacy and the body
 
-#### September 19 - 
+- "Beauty Parlor—A Woman's Space." Phyllis Ewen, *Radical America* 11 (May-June 1977): 47-58.
+
+#### September 19 - Identities in motion
+
+- “Los Intersticios: Recasting Moving Selves.” Evelyn Alaultany.
 
 ### Part 2: Gender, sexuality and reproduction
 
-#### September 24 - 
+#### September 24 - Myths of motherhood
 
 #### September 26 - 
 
-#### October 1 - 
+#### October 1 - Pregnancy politics
 
-#### October 3 - 
+#### October 3 - Pregnancy politics
 
-#### October 8 - 
+#### October 8 - Abortion politics
 
-#### October 10 - 
+#### October 10 - Queering reproduction
 
 #### October 15 - 
 
-#### October 17 - 
+#### October 17 - Reproduction in education
 
 #### October 22 - FALL BREAK
 
@@ -70,19 +74,23 @@ No class
 
 ### Part 3: Gender and labor
 
-#### October 24 - 
+#### October 24 - Pink Collar
 
-#### October 29 - 
+#### October 29 - Pink Collar
 
 #### October 31 - 
 
-#### November 5 - 
+#### November 5 - Domestic labor, United States
 
-#### November 7 - 
+- Pat Mainardi, "The Politics of Housework"
 
-#### November 12 - 
+#### November 7 - Domestic labor, South Africa
 
-#### November 14 - 
+#### November 12 - Queer workplaces
+
+- Kathleen M. Weston and Lisa B. Rofel, "Sexuality, Class, and Conflict in a Lesbian Workplace."
+
+#### November 14 - Labor organizing
 
 #### November 19 - 
 
@@ -92,7 +100,7 @@ No class
 
 #### November 28 - NO CLASS
 
-#### December 3 - 
+#### December 3 - Who was Lucy Parsons?
 
 #### December 5 - Conclusion
 
