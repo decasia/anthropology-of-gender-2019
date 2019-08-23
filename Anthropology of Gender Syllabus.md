@@ -80,7 +80,7 @@ I will issue you a final grade for your course portfolio, taken as a whole and i
 
 ## Graduate Requirements
 
-Graduate students in the class are asked to submit a 10-15 page research paper on a topic relevant to their own research interests. (This is in addition to the other course requirements.) You should discuss your paper topic with me at some point before November 1st, and the paper will be due by email by the end of the day on Monday, December 2nd. You may write an analysis of some specific sociocultural situation, a more conceptual analysis of a pertinent debate in anthropology of gender, or some other genre of academic writing that is useful to you. (You are not expected to conduct original ethnographic fieldwork for this assignment.)
+Graduate students in the class are asked to submit a 10-15 page research paper on a topic relevant to their own research interests. (This is in addition to the other course requirements.) You should discuss your paper topic with me at some point before November 1st, and the paper will be due by the end of the day on Monday, December 2nd. You may write an analysis of some specific sociocultural situation, a more conceptual analysis of a pertinent debate in anthropology of gender, or some other genre of academic writing that is useful to you. (You are not expected to conduct original ethnographic fieldwork for this assignment.)
 
 ***
 
