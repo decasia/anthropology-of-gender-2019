@@ -44,17 +44,17 @@ Place: Mather Memorial 225
 
 You should do the assigned readings each day before class. When you read, I suggest focusing on the overall argument, and on any passages that seem especially interesting or problematic. You are not expected to memorize every detail of the texts. You just need to understand them well enough to have a conversation about them, and to draw on them later in your written work. If you are pressed for time, I suggest you at least skim from start to finish, and highlight interesting passages. The readings are generally succinct.
 
-For each class session, you will also need to submit *one question about the day's reading*, at least 30 minutes before class starts. Please submit your question on Canvas, under the relevant reading question assignment.
+For each class session with readings (24 total), you will also need to submit *one question about the day's reading*, at least 30 minutes before class starts. Please submit your question on Canvas, under the relevant reading question assignment.
 
 ###  Class attendance and participation (15%)
 
 You do need to come to class each day. You may be absent **twice** without any explanation needed. After that, please do let me know what is happening!
 
-On days when we are discussing readings, I will call on two or three people to present their reading questions in class. We will use these to guide our discussion. (The presentations can be very informal. You just need to read your question and explain why you are asking it.)
+On days when we are discussing readings, I will call on two or three people to present their reading questions in class. We will use these to guide our discussion. (The presentations should be very informal. You just need to read your question and explain why you are asking it.)
 
 Some days we will do short writing exercises in class. These exercises will not be given letter grades, but I will collect them at the end of class, and their completion will contribute to your participation grade.
 
-### Short papers (20% each)
+### Papers (20% each)
 
 There will be two short papers, due **September 20** and **October 18**.
 
@@ -110,7 +110,7 @@ See also:
 - Adrienne Rich, "Compulsory Heterosexuality and Lesbian Existence"
 - Beth A. Quinn, "Sexual Harassment and Masculinity: The Power and Meaning of 'Girl Watching'"
 
-*Weekly assignment 1 due on September 6 (by the end of the day)*
+*Ethnographic exercise 1 due on September 6 (by the end of the day)*
 
 #### September 10 - Gender is political
 
@@ -127,7 +127,7 @@ See also:
 - Adrienne Rich, "Towards a Politics of Location"
 - Phyllis Ewen, "Beauty Parlor—A Woman's Space"
 
-*Weekly assignment 2 due on September 13*
+*Ethnographic exercise 2 due on September 13*
 
 #### September 17 - Gender fixates on the body
 
@@ -157,7 +157,7 @@ See also:
 
 - Dorothy E. Roberts, "Racism and patriarchy in the meaning of motherhood"
 
-*Weekly assignment 3 due on September 27*
+*Ethnographic exercise 3 due on September 27*
 
 #### October 1 - Pregnancy has politics
 
@@ -172,7 +172,7 @@ See also:
 
 - Elizabeth Arveda Kissling, "Bleeding Out Loud: Communication about Menstruation"
 
-*Weekly assignment 4 due on October 4*
+*Ethnographic exercise 4 due on October 4*
 
 #### October 8 - Parental roles are (often) ambivalent
 
@@ -182,7 +182,7 @@ See also:
 
 - Michelle Walks, "Raising Queerlings: Parenting with a Queer Art of Failure"
 
-*Weekly assignment 5 due on October 11*
+*Ethnographic exercise 5 due on October 11*
 
 #### October 15 - While formal education remains a key scene of gender policing
 
@@ -190,7 +190,7 @@ See also:
 
 #### October 17 - Review session
 
-- **Paper 2 due on October 18**
+- *Paper 2 due on October 18*
 
 #### October 22 - FALL BREAK
 
@@ -212,7 +212,7 @@ See also:
 
 - Pat Mainardi, "The Politics of Housework"
 
-*Weekly assignment 6 due on November 1*
+*Ethnographic exercise 6 due on November 1*
 
 #### November 5 - Feminized workplaces are sites of gender discipline and agency
 
@@ -222,7 +222,7 @@ See also:
 
 - Leslie Salzinger, "Manufacturing Sexual Subjects: 'Harassment', desire and discipline on a Maquiladora shopfloor"
 
-*Weekly assignment 7 due on November 8*
+*Ethnographic exercise 7 due on November 8*
 
 #### November 12 - It takes work to hide the work
 
@@ -232,7 +232,7 @@ See also:
 
 - Andries Bezuidenhout and Khayaat Fakier, "Maria’s Burden: Contract Cleaning and the Crisis of Social Reproduction in Post-apartheid South Africa"
 
-*Weekly assignment 8 due on November 15*
+*Ethnographic exercise 8 due on November 15*
 
 #### November 19 - "People do things however they can" (in changing sexual economies)
 
@@ -291,25 +291,27 @@ You are welcome to use digital devices in class *to facilitate your participatio
 
 ### Emergency circumstances
 
-In the unhappy event that you experience an emergency during the semester, I am happy to discuss any accommodations that you may need for our class. If you wish, you are also very welcome to channel these kinds of conversations through your advisors, navigators, counseling staff, or any other relevant campus offices.
+In the unhappy event that you experience an emergency during the semester, I am ready to discuss any accommodations that you may need for our class. If you wish, you are also very welcome to channel these kinds of conversations through your advisors, navigators, counseling staff, or any other relevant campus offices.
 
 ### Accommodations
 
-The Disability Resources Center is here to assist students with disabilities to fully participate in their chosen programs and activities. Please contact the office of Disability Resources to discuss your individual needs. 
+The Disability Resources Center is here to assist students with disabilities to fully participate in your chosen programs and activities. Please contact the office of Disability Resources to discuss your individual needs. 
 
 For further information, see [http://studentaffairs.case.edu/academic/disability/](http://studentaffairs.case.edu/academic/disability/).
 
 ### Late work
 
-Your work should be submitted on time. It is due by 11:59pm on the due date. 
+Your work should be submitted on time. It is due by 11:59pm on the due date.
 
 You may submit your work up to 12 hours late without penalty. After that, late work will be penalized 1/3 of a grade per day, and is not accepted after one week.
 
+If you need an extension for some reason, please feel free to email me to discuss your situation. Asking about this in advance is much better than asking at the last minute!
+
 ### Academic integrity
 
-All forms of academic dishonesty are violations of academic integrity standards. (This includes cheating, plagiarism, misrepresentation, obstruction, and submitting work to one course that was completed for another course.) 
+Please do observe academic integrity in your coursework. Cite sources for concepts as well as for direct quotations. As a reminder, inadmissible practices would include: cheating, plagiarism, misrepresentation, obstruction, submitting work to one course that was completed for another course, etc.
 
-If you are not sure what constitutes plagiarism, etc, I am happy to talk to you about it.
+If you are not sure what constitutes plagiarism, acceptable citation practices, I am happy to talk to you about it.
 
 ***
 
