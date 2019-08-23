@@ -25,7 +25,7 @@ Each claim — some more empirical, some more conceptual — has its own course 
 ## Part 3: Gender and labor
 
 - Gender and class emerge together
-- Emotions can become work
+- Emotions are work
 - Cleaning a house is also work
 - Feminized workplaces are sites of gender discipline and agency
 - Workplace gender discipline is also sexual discipline

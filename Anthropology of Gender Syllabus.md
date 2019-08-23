@@ -204,7 +204,7 @@ See also:
 
 - Cynthia Cockburn, "The material of male power"
 
-#### October 29 - Emotions can become work
+#### October 29 - Emotions are work
 
 - Arlie Hochschild, *The Managed Heart* (excerpt)
 
