@@ -9,6 +9,7 @@ ANTH 365/465, WGST 365
 ## Instructor 
 
 Dr. Eli Thorkelson
+
 [edt27@case.edu](mailto:edt27@case.edu)
 
 I prefer "they/them" pronouns.
@@ -43,7 +44,7 @@ Place: Mather Memorial 225
 
 You should do the assigned readings each day before class. When you read, I suggest focusing on the overall argument, and on any passages that seem especially interesting or problematic. You are not expected to memorize every detail of the texts. You just need to understand them well enough to have a conversation about them, and to draw on them later in your written work. If you are pressed for time, I suggest you at least skim from start to finish, and highlight interesting passages. The readings are generally succinct.
 
-For each class session, you will also need to submit *one question about the day's reading*, at least 30 minutes before class starts. Please send your question to me by email (edt27@case.edu), with the subject line "Gender Reading Question."
+For each class session, you will also need to submit *one question about the day's reading*, at least 30 minutes before class starts. Please submit your question on Canvas, under the relevant reading question assignment.
 
 ###  Class attendance and participation (15%)
 
@@ -109,9 +110,9 @@ See also:
 - Adrienne Rich, "Compulsory Heterosexuality and Lesbian Existence"
 - Beth A. Quinn, "Sexual Harassment and Masculinity: The Power and Meaning of 'Girl Watching'"
 
-*Weekly assignment 1 due on September 6*
+*Weekly assignment 1 due on September 6 (by the end of the day)*
 
-#### September 10 - Gender is political (in Boston and Chicago)
+#### September 10 - Gender is political
 
 - Combahee River Collective, "Combahee River Collective Statement"
 - Timothy Stewart-Winter, "Lesbian Survival School"
@@ -126,7 +127,7 @@ See also:
 - Adrienne Rich, "Towards a Politics of Location"
 - Phyllis Ewen, "Beauty Parlor—A Woman's Space"
 
-*Weekly assignment 2 due on September 13 (by the end of the day)*
+*Weekly assignment 2 due on September 13*
 
 #### September 17 - Gender fixates on the body
 
@@ -213,11 +214,11 @@ See also:
 
 *Weekly assignment 6 due on November 1*
 
-#### November 5 - Pink collar work
+#### November 5 - Feminized workplaces are sites of gender discipline and agency
 
 - Carla Freeman, *High Tech and High Heels in the Global Economy* (excerpt)
 
-#### November 7 - But management often controls the reorganizing
+#### November 7 - Workplace gender discipline is also sexual discipline
 
 - Leslie Salzinger, "Manufacturing Sexual Subjects: 'Harassment', desire and discipline on a Maquiladora shopfloor"
 
@@ -320,8 +321,8 @@ There is an immense literature on gender, sexuality and culture, but here are a 
 - *The Transgender Studies Reader* (2006), Susan Stryker ed., Taylor & Francis.
 - *A Companion to Anthropology of the Body and Embodiment* (2011), Frances E. Mascia-Lees ed., Wiley-Blackwell.
 - *African Masculinities: Men in Africa from the Late Nineteenth Century to the Present* (2005), Lahoucine Ouzgane and Robert Morrell eds, UKZN Press.
-- *Nonbinary: Memoirs of Gender and Identity*, Micah Rajunov and A. Scott Duane eds, Columbia UP.
-- *This Bridge Called My Back* (1983), Cherrie Moraga and Gloria Anzaldúa eds, Persephone Press.
+- *Nonbinary: Memoirs of Gender and Identity* (2019), Micah Rajunov and A. Scott Duane eds., Columbia UP.
+- *This Bridge Called My Back* (1983), Cherrie Moraga and Gloria Anzaldúa eds., Persephone Press.
 - *African Gender Studies: A Reader* (2005), Oyèrónké Oyewùmí ed, Palgrave McMillan.
 
 ***
