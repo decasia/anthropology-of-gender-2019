@@ -18,7 +18,7 @@ Office hours: Thursdays 10-11am, Mather Memorial 204.
 
 ## Purpose
 
-This course will give a general introduction to anthropological research on gender and sexuality in human societies. The course is divided into three sections. Part I introduces a number of basic concepts in gender analysis. Part II explores the relationship between gender and social reproduction. Part III examines gendered work, including housework, emotional labor, service work, and sex work. Our ethnographic cases will include the USA, South Africa, Indonesia, India, the UK, Mexico, Canada, Egypt, Barbados, and Madagascar. We will also do some research of our own about gender dynamics in our own immediate environments, and practice writing in public.
+This course will give a general introduction to anthropological research on gender and sexuality in human societies. The course is divided into three sections. Part I introduces a number of basic concepts in gender analysis. Part II explores the relationship between gender and social reproduction. Part III examines gendered work, including housework, emotional labor, service work, and sex work. Our ethnographic cases will include the USA, South Africa, Indonesia, India, the UK, Mexico, Canada, Egypt, Barbados, and Madagascar. We will also make some observations of our own about gender dynamics in our own immediate environments, and practice writing in public.
 
 ## Objectives
 
@@ -259,7 +259,7 @@ See also:
 
 #### December 5 - Conclusion
 
-*Final portfolio submission due on December 6*
+- *Final portfolio submission due on December 6*
 
 *** 
 
@@ -309,7 +309,7 @@ If you need an extension for some reason, please feel free to email me to discus
 
 ### Academic integrity
 
-Please do observe academic integrity in your coursework. Cite sources for concepts as well as for direct quotations. As a reminder, inadmissible practices would include: cheating, plagiarism, misrepresentation, obstruction, submitting work to one course that was completed for another course, etc.
+Please do maintain academic integrity in your coursework. Cite sources for concepts as well as for direct quotations. As a (presumably obvious) reminder, inadmissible practices would include cheating, plagiarism, misrepresentation, obstruction, submitting work to one course that was completed for another course, etc.
 
 If you are not sure what constitutes plagiarism, acceptable citation practices, I am happy to talk to you about it.
 
