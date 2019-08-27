@@ -1,3 +1,5 @@
+autoscale: true
+
 ## Anthropology of Gender and Sex Differences 
 
 ### In cross-cultural perspective
