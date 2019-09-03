@@ -4,7 +4,7 @@ In cross-cultural perspective
 
 ANTH 365/465, WGST 365
 
-**Syllabus - Fall 2019 - Version 1.0**
+**Syllabus - Fall 2019 - Version 1.0.1**
 
 ## Instructor 
 
@@ -114,8 +114,11 @@ See also:
 
 #### September 10 - Gender is political
 
-- Combahee River Collective, "Combahee River Collective Statement"
 - Timothy Stewart-Winter, "Lesbian Survival School"
+
+See also:
+
+- Combahee River Collective, "Combahee River Collective Statement"
 
 #### September 12 - Gender organizes social space
 
