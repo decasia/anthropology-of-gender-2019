@@ -8,10 +8,10 @@ Due on September 13.
 
 *Observation and very short interview exercise*
 
-1. Return to the space that you visited for your first assignment. (*However*, if you were unhappy with your first site, you may pick another instead.)
+1. Return to the space that you visited for your first assignment. (*However*, if this is infeasible or you were unhappy with your first site, you may pick another instead.)
 2. Spend 30-45 minutes at the site. Pay close attention to what people are doing and *how it may reflect race, class, gender and sexuality.* (Or any other sort of social identity that is relevant.)
 3. Take notes on anything that catches your attention.
-4. Chat briefly with at least two people. Ask them about something that has caught your attention in the site. See what they make of their own situations.
+4. Chat briefly with at least two people. Ask them about something that has caught your attention in the site. See what they make of the situation.
   
 *Writing exercise*
 
