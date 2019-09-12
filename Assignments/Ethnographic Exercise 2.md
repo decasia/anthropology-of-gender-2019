@@ -2,7 +2,7 @@
 
 ## Gender and intersectional analysis
 
-Due on September 13.
+Due on September 15.
 
 ## Assignment
 

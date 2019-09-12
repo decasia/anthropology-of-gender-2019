@@ -2,7 +2,7 @@
 
 ## Answering questions about gender
 
-Due on September 20
+Due on September 22
 
 ## Assignment
 
@@ -15,7 +15,7 @@ This assignment is based on answering one of the reading questions, on the basis
     a. Tell us what the question is (please quote your original question exactly!) and explain what it means and why it matters.
     b. Explain how the question fits into *your larger reading* of the original text. What do you think is the text's main point or argument? What seemed to be its chief limitations? What was its context or intended audience? And how does the question fit into these?
     c. Finally, give an answer to the question, and *explain the thought process that led you to your answer*. Feel free to emphasize points on which you would disagree with the text's author, or the person asking the question!
-5. Submit the completed essay to me on Canvas on September 20. It should be 1500-2000 words long (roughly 4-6 pages, double spaced). Do cite your sources (using any scholarly reference style that you are comfortable with).
+5. Submit the completed essay to me on Canvas on September 22. It should be 1500-2000 words long (roughly 4-6 pages, double spaced). Do cite your sources (using any scholarly reference style that you are comfortable with).
 
 ## Suggestions for writing
 

@@ -56,7 +56,7 @@ Some days we will do short writing exercises in class. These exercises will not 
 
 ### Papers (20% each)
 
-There will be two short papers, due **September 20** and **October 18**.
+There will be two short papers, due **September 22** and **October 20**.
 
 They will be 1500-2000 words long, and they will address the readings from Part 1 and Part 2, respectively. They will be more conventional academic papers, providing critical analysis of the course readings.
 
@@ -130,7 +130,7 @@ See also:
 - Adrienne Rich, "Towards a Politics of Location"
 - Phyllis Ewen, "Beauty Parlor—A Woman's Space"
 
-*Ethnographic exercise 2 due on September 13*
+*Ethnographic exercise 2 due on September 15*
 
 #### September 17 - Gender fixates on the body
 
@@ -146,7 +146,7 @@ See also:
 
 - Gloria Anzaldúa, "now let us shift… the path of conocimiento… inner work, public acts"
 
-*Paper 1 due on September 20*
+*Paper 1 due on September 22*
 
 ***
 
@@ -160,7 +160,7 @@ See also:
 
 - Dorothy E. Roberts, "Racism and patriarchy in the meaning of motherhood"
 
-*Ethnographic exercise 3 due on September 27*
+*Ethnographic exercise 3 due on September 29*
 
 #### October 1 - Pregnancy has politics
 
@@ -175,7 +175,7 @@ See also:
 
 - Elizabeth Arveda Kissling, "Bleeding Out Loud: Communication about Menstruation"
 
-*Ethnographic exercise 4 due on October 4*
+*Ethnographic exercise 4 due on October 6*
 
 #### October 8 - Parental roles are (often) ambivalent
 
@@ -185,7 +185,7 @@ See also:
 
 - Michelle Walks, "Raising Queerlings: Parenting with a Queer Art of Failure"
 
-*Ethnographic exercise 5 due on October 11*
+*Ethnographic exercise 5 due on October 13*
 
 #### October 15 - While formal education remains a key scene of gender policing
 
@@ -193,7 +193,7 @@ See also:
 
 #### October 17 - Review session
 
-- *Paper 2 due on October 18*
+- *Paper 2 due on October 20*
 
 #### October 22 - FALL BREAK
 
@@ -215,7 +215,7 @@ See also:
 
 - Pat Mainardi, "The Politics of Housework"
 
-*Ethnographic exercise 6 due on November 1*
+*Ethnographic exercise 6 due on November 3*
 
 #### November 5 - Feminized workplaces are sites of gender discipline and agency
 
@@ -225,7 +225,7 @@ See also:
 
 - Leslie Salzinger, "Manufacturing Sexual Subjects: 'Harassment', desire and discipline on a Maquiladora shopfloor"
 
-*Ethnographic exercise 7 due on November 8*
+*Ethnographic exercise 7 due on November 10*
 
 #### November 12 - It takes work to hide the work
 
@@ -235,7 +235,7 @@ See also:
 
 - Andries Bezuidenhout and Khayaat Fakier, "Maria’s Burden: Contract Cleaning and the Crisis of Social Reproduction in Post-apartheid South Africa"
 
-*Ethnographic exercise 8 due on November 15*
+*Ethnographic exercise 8 due on November 17*
 
 #### November 19 - "People do things however they can" (in changing sexual economies)
 
