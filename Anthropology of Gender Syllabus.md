@@ -4,7 +4,7 @@ In cross-cultural perspective
 
 ANTH 365/465, WGST 365
 
-**Syllabus - Fall 2019 - Version 1.0.1**
+**Syllabus - Fall 2019 - Version 1.0.2**
 
 ## Instructor 
 
