@@ -14,8 +14,8 @@ Due on September 29.
   
 *Writing exercise*
 
-1. Post a brief account on Medium of your experience. Describe your conversation in as much detail as you can, with multiple specific quotes. Start out by telling us about the person you spoke to — who are they and what are they like? (Sociologically? race/class/gender/age/nationality/etc? In terms of their clothes, posture, or other forms of presentation?)
-2 After you finish telling us about the interview, reflect a little bit on what it tells you about *transitioning between spaces*. And what does this tell you about gender? Are spaces themselves gendered? Is "home" gendered?
+1. Post a brief account on Medium of your experience. Describe your conversation in as much detail as you can, with multiple specific quotes. Start out by telling us about the person you spoke to — who are they and what are they like? (Sociologically? race/class/gender/age/nationality/etc? In terms of their clothes, posture, or other forms of presentation?) Then tell us about the interview and what struck you about it. 
+2. You might also reflect a little bit on what the interview tells you about *transitioning between spaces*. Does this have anything to do with gender and gender roles? Are spaces themselves gendered? Is "home" gendered? (Or roles within the home?)
 3. Your account should be between 250-500 words long. (This is about 1-2 pages, double-spaced.)
 4. Submit your work to me on Canvas by pasting the address of your post into the submission box!
 
