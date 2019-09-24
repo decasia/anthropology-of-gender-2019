@@ -164,7 +164,10 @@ See also:
 
 #### October 1 - Pregnancy has politics
 
-- Khiara M. Bridges, *Reproducing Race* (excerpt)
+- Khiara M. Bridges, *Reproducing Race* (excerpt, Chapter 3)
+
+See also:
+
 - Lila Abu-Lughod, "A tale of two pregnancies"
 
 #### October 3 - Reproduction is a pedagogical project
