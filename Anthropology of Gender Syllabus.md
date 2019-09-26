@@ -164,7 +164,7 @@ See also:
 
 #### October 1 - Pregnancy has politics
 
-- Khiara M. Bridges, *Reproducing Race* (excerpt, Chapter 3)
+- Khiara M. Bridges, *Reproducing Race* (excerpt, Chapter 6)
 
 See also:
 
@@ -172,7 +172,7 @@ See also:
 
 #### October 3 - Reproduction is a pedagogical project
 
-- Matthew Gutmann, "Planning Men Out of Family Planning"
+- Matthew Gutmann, *Fixing Men* (excerpt, Chapter 6)
 
 See also: 
 
