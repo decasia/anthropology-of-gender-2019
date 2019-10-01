@@ -4,7 +4,7 @@ In cross-cultural perspective
 
 ANTH 365/465, WGST 365
 
-**Syllabus - Fall 2019 - Version 1.0.4**
+**Syllabus - Fall 2019 - Version 1.0.5**
 
 ## Instructor 
 
@@ -164,7 +164,7 @@ See also:
 
 #### October 1 - Pregnancy has politics
 
-- Khiara M. Bridges, *Reproducing Race* (excerpt, Chapter 6)
+- Khiara M. Bridges, *Reproducing Race* (Chapter 6, "Wily Patients, Welfare Queens, and the Reiteration of Race")
 
 See also:
 
@@ -172,7 +172,7 @@ See also:
 
 #### October 3 - Reproduction is a pedagogical project
 
-- Matthew Gutmann, *Fixing Men* (excerpt, Chapter 6)
+- Matthew Gutmann, *Fixing Men* (Chapter 6, "Scoring Men: Vasectomies and the Totemic Illusion of Masculine Sexuality")
 
 See also: 
 
@@ -182,7 +182,7 @@ See also:
 
 #### October 8 - Parental roles are (often) ambivalent
 
-- Adrienne Rich, *Of Woman Born* (excerpt)
+- Adrienne Rich, *Of Woman Born* (Chapter 1, "Anger and Tenderness")
 
 #### October 10 - As norms shift, reproduction becomes a problem
 
@@ -192,7 +192,7 @@ See also:
 
 #### October 15 - While formal education remains a key scene of gender policing
 
-- C. J. Pascoe, *Dude, You’re a Fag: Masculinity and Sexuality in High School* (excerpt)
+- C. J. Pascoe, *Dude, You’re a Fag: Masculinity and Sexuality in High School* (Chapter 5, "Look at My Masculinity")
 
 #### October 17 - Review session
 
