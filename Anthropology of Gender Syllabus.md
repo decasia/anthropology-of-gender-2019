@@ -4,7 +4,7 @@ In cross-cultural perspective
 
 ANTH 365/465, WGST 365
 
-**Syllabus - Fall 2019 - Version 1.0.5**
+**Syllabus - Fall 2019 - Version 1.0.6 **
 
 ## Instructor 
 
@@ -212,7 +212,7 @@ See also:
 
 #### October 29 - Emotions are work
 
-- Arlie Hochschild, *The Managed Heart* (excerpt)
+*No reading*
 
 #### October 31 - Cleaning a house is also work
 
