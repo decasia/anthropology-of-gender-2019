@@ -42,7 +42,6 @@ Place: Mather Memorial 225
 
 ### Reading and Reading Questions (15%)
 
-You should do the assigned readings each day before class. When you read, I suggest focusing on the overall argument, and on any passages that seem especially interesting or problematic. You are not expected to memorize every detail of the texts. You just need to understand them well enough to have a conversation about them, and to draw on them later in your written work. If you are pressed for time, I suggest you at least skim from start to finish, and highlight interesting passages. The readings are generally succinct.
 
 For each class session with readings (24 total), you will also need to submit *one question about the day's reading*, at least 30 minutes before class starts. Please submit your question on Canvas, under the relevant reading question assignment.
 
@@ -74,7 +73,7 @@ Before you get started, we will discuss ethical practices for writing about huma
 
 Each week's assignment will be announced on Thursdays the week before it is due. It will be due eight days later, on the following Friday. For example, the first weekly assignment will be announced on Thursday, August 29, and it will be due Friday, September 6. You can prepare for the first assignment by creating a Medium account for yourself, and following my Medium account (@edt27).
 
-At the end of the course, you will conclude by posting a short final essay about your growing ethnographic portfolio. This final essay should still be addressed to your peers, and it should be about 1500-2000 words long. You should reflect on what you learned by doing these fieldwork exercises, and on what they suggest about gender and sexuality in social life. You could also comment on your personal experiences during the research process, or on anything you've changed your mind about as you went along.
+At the end of the course, you will conclude by posting a short final essay about your growing ethnographic portfolio. This final essay should still be addressed to your peers, and it should be about 1500 words long. You should reflect on what you learned by doing these fieldwork exercises, and on what they suggest about gender and sexuality in social life. You could also comment on your personal experiences during the research process, or on anything you've changed your mind about as you went along.
 
 I will issue you a final grade for your course portfolio, taken as a whole and including the final essay. The grade will assess both your fieldwork itself and your writing about it. Insightful, courageous, reflexive, persuasive, and clear work will be rewarded.
 
